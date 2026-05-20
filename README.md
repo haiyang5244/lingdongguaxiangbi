@@ -8,7 +8,8 @@
 解卦可结合当前的各家大模型，一般提问格式，比如：
 “xxxx卜卦得地山谦卦，动爻在第三爻（从下往上数），变卦得坤卦”
 
-<img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/0723ba18-38ab-4cf2-9916-bf725b9aab00" />
+<img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/4e23bdfb-2a0d-4a00-af9c-85f26f806f26" />
+
 
 
 ## ✨ 功能特点
@@ -69,7 +70,9 @@
 
 | 桌面端布局 | 移动端布局 |
 |-----------|------------|
-| <img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/0723ba18-38ab-4cf2-9916-bf725b9aab00" />| <img width="423" height="887" alt="image" src="https://github.com/user-attachments/assets/569516be-a0bc-444c-9512-a5e60221e440" />|
+| <img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/64418ee4-1683-403c-b92f-63f1d9dbe4f9" />
+ | <img width="423" height="887" alt="image" src="https://github.com/user-attachments/assets/4ae6120f-2c8f-49f6-91ad-a70b2d85253e" />
+ |
 
 ## 🔧 本地开发
 
