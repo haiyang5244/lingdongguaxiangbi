@@ -62,14 +62,6 @@
   - 点击“时”键随机起卦
 - 动爻（石青色呼吸灯）只出现在起卦后，手动修改卦象会自动清除
 
-## 📂 文件结构
-
-```
-yijing-hexagram/
-├── index.html          # 主应用文件（包含所有HTML、CSS、JS）
-├── screenshot.png      # 应用截图
-└── README.md           # 本说明文件
-```
 
 > 本工具采用“单文件”设计，所有代码、样式、数据表（64卦映射表）全部内联在 `index.html` 中，方便离线保存与分享。
 
@@ -77,8 +69,7 @@ yijing-hexagram/
 
 | 桌面端布局 | 移动端布局 |
 |-----------|------------|
-| <img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/0723ba18-38ab-4cf2-9916-bf725b9aab00" />| <img width="423" height="887" alt="image" src="https://github.com/user-attachments/assets/569516be-a0bc-444c-9512-a5e60221e440" />
- |
+| <img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/0723ba18-38ab-4cf2-9916-bf725b9aab00" />| <img width="423" height="887" alt="image" src="https://github.com/user-attachments/assets/569516be-a0bc-444c-9512-a5e60221e440" />|
 
 ## 🔧 本地开发
 
