@@ -8,7 +8,7 @@
 解卦可结合当前的各家大模型，一般提问格式，比如：
 “xxxx卜卦得地山谦卦，动爻在第三爻（从下往上数），变卦得坤卦”
 
-<img width="1698" height="826" alt="image" src="https://github.com/user-attachments/assets/4e23bdfb-2a0d-4a00-af9c-85f26f806f26" />
+<img width="1919" height="804" alt="image" src="https://github.com/user-attachments/assets/4e23bdfb-2a0d-4a00-af9c-85f26f806f26" />
 
 
 
